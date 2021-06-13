@@ -7,6 +7,11 @@ URLtoPDF is a Discord bot which currently turns your given link into PDF and ret
   - [x] Bit.ly & Linkvertise works but needs other services
 - [ ] [WIP] User verification from Google Sheets Data (Inspired from Advising Server BOT)  
 - [ ] Custom PDF Size & User Agent
+
+## Get the bot in your server 
+- Host in Heroku or your machine 
+- Invite to your server - [Invitation](https://discord.com/api/oauth2/authorize?client_id=852947702005891102&permissions=8&scope=bot) 
+
 ### Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requiremnts.
